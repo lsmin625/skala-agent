@@ -1,0 +1,126 @@
+[
+	{
+		"id": "Q001",
+		"type": "short_answer",
+		"question": "코난의 본명은 무엇인가요?",
+		"answer": "쿠도 신이치"
+	},
+	{
+		"id": "Q002",
+		"type": "multiple_choice",
+		"question": "다음 중 코난이 사용하는 음성 변조기 발명자는 누구인가요?",
+		"choices": ["아가사 히로시 박사", "하시바 마사루", "하이바라 아이", "모리 코고로"],
+		"answer": "아가사 히로시 박사"
+	},
+	{
+		"id": "Q003",
+		"type": "short_answer",
+		"question": "코난이 작아지게 된 원인인 약의 이름은 무엇인가요?",
+		"answer": "APTX 4869"
+	},
+	{
+		"id": "Q004",
+		"type": "multiple_choice",
+		"question": "다음 중 블랙 조직의 일원이 아닌 사람은 누구인가요?",
+		"choices": ["진", "보르본", "베르무트", "에도가와 코난"],
+		"answer": "에도가와 코난"
+	},
+	{
+		"id": "Q005",
+		"type": "short_answer",
+		"question": "하이바라 아이의 본명은 무엇인가요?",
+		"answer": "미야노 시호"
+	},
+	{
+		"id": "Q006",
+		"type": "multiple_choice",
+		"question": "모리 란의 아버지 이름은 무엇인가요?",
+		"choices": ["모리 코고로", "모리 신이치", "모리 유사쿠", "모리 유키코"],
+		"answer": "모리 코고로"
+	},
+	{
+		"id": "Q007",
+		"type": "short_answer",
+		"question": "코난이 살고 있는 탐정 사무소 이름은 무엇인가요?",
+		"answer": "모리 탐정사무소"
+	},
+	{
+		"id": "Q008",
+		"type": "multiple_choice",
+		"question": "다음 중 '붉은색 스즈란의 정체' 편에서 처음 등장한 인물은?",
+		"choices": ["오키야 스바루", "진", "쿠로사와 히토미", "하네다 슈키치"],
+		"answer": "오키야 스바루"
+	},
+	{
+		"id": "Q009",
+		"type": "short_answer",
+		"question": "코난이 사용하는 킥력 증강 신발을 만든 사람은 누구인가요?",
+		"answer": "아가사 히로시 박사"
+	},
+	{
+		"id": "Q010",
+		"type": "multiple_choice",
+		"question": "하이바라 아이는 이전에 어떤 조직에 속해 있었나요?",
+		"choices": ["블랙 조직", "경찰청", "FBI", "소년 탐정단"],
+		"answer": "블랙 조직"
+	},
+	{
+		"id": "Q011",
+		"type": "short_answer",
+		"question": "쿠도 신이치의 아버지 이름은 무엇인가요?",
+		"answer": "쿠도 유사쿠"
+	},
+	{
+		"id": "Q012",
+		"type": "multiple_choice",
+		"question": "소년 탐정단의 리더는 누구인가요?",
+		"choices": ["요시다 아유미", "고다 타카유키", "에도가와 코난", "츠부라야 미츠히코"],
+		"answer": "에도가와 코난"
+	},
+	{
+		"id": "Q013",
+		"type": "short_answer",
+		"question": "신이치가 활동하면서 사용하는 가짜 신분 이름은?",
+		"answer": "에도가와 코난"
+	},
+	{
+		"id": "Q014",
+		"type": "multiple_choice",
+		"question": "다음 중 FBI 소속 인물은 누구인가요?",
+		"choices": ["진", "카라스마 렌야", "아카이 슈이치", "하네다 야스히로"],
+		"answer": "아카이 슈이치"
+	},
+	{
+		"id": "Q015",
+		"type": "short_answer",
+		"question": "모리 란이 소속된 고등학교의 이름은?",
+		"answer": "테이탄 고등학교"
+	},
+	{
+		"id": "Q016",
+		"type": "multiple_choice",
+		"question": "코난이 모리 탐정에게 자주 사용하는 도구는?",
+		"choices": ["마취 시계", "레이저 총", "음파 안경", "수면 캡슐"],
+		"answer": "마취 시계"
+	},
+	{
+		"id": "Q017",
+		"type": "multiple_choice",
+		"question": "다음 중 하이바라 아이의 언니 이름은 무엇인가요?",
+		"choices": ["미야노 아케미", "유키코", "세라 마스미", "츠바키 메구미"],
+		"answer": "미야노 아케미"
+	},
+	{
+		"id": "Q018",
+		"type": "short_answer",
+		"question": "코난이 달고 있는 탐정 배지는 어떤 조직 소속인가요?",
+		"answer": "소년 탐정단"
+	},
+	{
+		"id": "Q019",
+		"type": "multiple_choice",
+		"question": "다음 중 코난의 어머니 이름은 무엇인가요?",
+		"choices": ["쿠도 유키코", "모리 에리", "세라 메리", "미야노 엘레나"],
+		"answer": "쿠도 유키코"
+	}
+]

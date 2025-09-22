@@ -1,0 +1,125 @@
+[
+	{
+		"class": "1반",
+		"name": "홍길동",
+		"student_id": "S25B101",
+		"phone": "010-1111-1001"
+	},
+	{
+		"class": "1반",
+		"name": "흥부",
+		"student_id": "S25B102",
+		"phone": "010-1111-1002"
+	},
+	{
+		"class": "1반",
+		"name": "놀부",
+		"student_id": "S25B103",
+		"phone": "010-1111-1003"
+	},
+	{
+		"class": "1반",
+		"name": "콩쥐",
+		"student_id": "S25B104",
+		"phone": "010-1111-1004"
+	},
+	{
+		"class": "1반",
+		"name": "팥쥐",
+		"student_id": "S25B105",
+		"phone": "010-1111-1005"
+	},
+
+	{
+		"class": "2반",
+		"name": "심청이",
+		"student_id": "S25B201",
+		"phone": "010-2222-2001"
+	},
+	{
+		"class": "2반",
+		"name": "심봉사",
+		"student_id": "S25B202",
+		"phone": "010-2222-2002"
+	},
+	{
+		"class": "2반",
+		"name": "장화",
+		"student_id": "S25B203",
+		"phone": "010-2222-2003"
+	},
+	{
+		"class": "2반",
+		"name": "홍련",
+		"student_id": "S25B204",
+		"phone": "010-2222-2004"
+	},
+	{
+		"class": "2반",
+		"name": "선녀",
+		"student_id": "S25B205",
+		"phone": "010-2222-2005"
+	},
+
+	{
+		"class": "3반",
+		"name": "바리공주",
+		"student_id": "S25B301",
+		"phone": "010-3333-3001"
+	},
+	{
+		"class": "3반",
+		"name": "피터팬",
+		"student_id": "S25B302",
+		"phone": "010-3333-3002"
+	},
+	{
+		"class": "3반",
+		"name": "알라딘",
+		"student_id": "S25B303",
+		"phone": "010-3333-3003"
+	},
+	{
+		"class": "3반",
+		"name": "신데렐라",
+		"student_id": "S25B304",
+		"phone": "010-3333-3004"
+	},
+	{
+		"class": "3반",
+		"name": "헨젤",
+		"student_id": "S25B305",
+		"phone": "010-3333-3005"
+	},
+
+	{
+		"class": "4반",
+		"name": "그레텔",
+		"student_id": "S25B401",
+		"phone": "010-4444-4001"
+	},
+	{
+		"class": "4반",
+		"name": "빨간모자",
+		"student_id": "S25B402",
+		"phone": "010-4444-4002"
+	},
+	{
+		"class": "4반",
+		"name": "백설공주",
+		"student_id": "S25B403",
+		"phone": "010-4444-4003"
+	},
+	{
+		"class": "4반",
+		"name": "잠자는숲속의공주",
+		"student_id": "S25B404",
+		"phone": "010-4444-4004"
+	},
+	{
+		"class": "4반",
+		"name": "인어공주",
+		"student_id": "S25B405",
+		"phone": "010-4444-4005"
+	}
+]
