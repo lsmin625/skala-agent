@@ -2,6 +2,7 @@ langchain
 langchain-community
 langchain-core
 langchain-openai
+langchain_teddynote
 langgraph
 python-dotenv
 typing-extensions
