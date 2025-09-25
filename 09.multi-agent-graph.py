@@ -210,6 +210,7 @@ def parse_applicant(text: str) -> ApplicantInfo | None:
 
 def applicant_validate_and_gate(state: AppState) -> AppState:
     """입력에서 응시자 정보를 추출하고 사전 등록자 및 응시여부 확인"""
+    
     text = state["user_input"].strip()
 
     # "퀴즈 시작" 트리거도 허용
