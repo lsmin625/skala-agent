@@ -21,3 +21,7 @@ sudo apt install python3.12-venv
 .\venv\Scripts\activate     # windows
 source ./venv/bin/activate  # macOS/Linux
 ```
+### 3. 필수 모듈 설치
+```
+pip install -r requirements.txt
+```
