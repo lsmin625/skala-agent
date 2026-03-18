@@ -1,0 +1,8 @@
+{
+  // 노트북 저장 시 자동 포맷팅
+  "[python]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "ms-python.black-formatter"  // 또는 원하는 포맷터
+  },
+  "notebook.formatOnSave.enabled": true
+}
