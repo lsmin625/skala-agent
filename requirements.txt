@@ -11,3 +11,4 @@ jupyter
 ipykernel
 gradio
 nb-mypy
+ddgs
